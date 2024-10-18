@@ -1,1 +1,4 @@
+ 
 Line 1 from master
+Line 1 from branch1
+
